@@ -1,6 +1,10 @@
 # task
 Task to scrapes all Hockey Team Stats starting from the given url
-Hot to use the script
+
+How to use the script
+#freeze the requirements.txt by using below command
+pip freeze > requirements.txt
+
 1. Step use below command to clone the repository
 
 git clone https://github.com/RakeshRanjanSingh/task
